@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0530969156ff82d1464e9a79f0c7619c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3b95320016f0c74b536d493591e685e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ac62016160e8f7c3ff9770ea3af0deb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cca2d55580e9f5fd89c0fbcbf4cfc5a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\10f96ceb82e20307082d27006ab199c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\97fb875faf505f55afef30f24b34df9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3a266e2089d5e8b6ea04cf382cbcee5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7084465d1c8fd7dc7a288ba787df966e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e39d83c5b3e295d36cd2de474c10fe30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f5a03995c0a765748931b03c9addbf0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\320a1be6a97abfd5465a2c326b0f3ce5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7cbe1a9744021d907c20d786fa226309\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:5:5-11:40
+	android:largeScreens
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:7:9-36
+	android:smallScreens
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:8:9-37
+	android:xlargeScreens
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:11:9-37
+	android:resizeable
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:9:9-34
+	android:anyDensity
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:6:9-34
+application
+ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:12:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3b95320016f0c74b536d493591e685e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3b95320016f0c74b536d493591e685e\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:18:9-54
+	android:configChanges
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:15:9-55
+	android:icon
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:13:9-38
+activity#com.amit.languagetest.MainActivity
+ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:22:9-27:20
+	android:name
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:22:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0530969156ff82d1464e9a79f0c7619c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0530969156ff82d1464e9a79f0c7619c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3b95320016f0c74b536d493591e685e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f3b95320016f0c74b536d493591e685e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ac62016160e8f7c3ff9770ea3af0deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5ac62016160e8f7c3ff9770ea3af0deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cca2d55580e9f5fd89c0fbcbf4cfc5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cca2d55580e9f5fd89c0fbcbf4cfc5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\10f96ceb82e20307082d27006ab199c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\10f96ceb82e20307082d27006ab199c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\97fb875faf505f55afef30f24b34df9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\97fb875faf505f55afef30f24b34df9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3a266e2089d5e8b6ea04cf382cbcee5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3a266e2089d5e8b6ea04cf382cbcee5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7084465d1c8fd7dc7a288ba787df966e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7084465d1c8fd7dc7a288ba787df966e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e39d83c5b3e295d36cd2de474c10fe30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e39d83c5b3e295d36cd2de474c10fe30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f5a03995c0a765748931b03c9addbf0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f5a03995c0a765748931b03c9addbf0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\320a1be6a97abfd5465a2c326b0f3ce5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\320a1be6a97abfd5465a2c326b0f3ce5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7cbe1a9744021d907c20d786fa226309\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\v3 mobi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7cbe1a9744021d907c20d786fa226309\AndroidManifest.xml:20:5-44
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\personalRepo\AndroidLocaleDemo\app\src\main\AndroidManifest.xml

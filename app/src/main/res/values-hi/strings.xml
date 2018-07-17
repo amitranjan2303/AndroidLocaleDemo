@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageTest</string>
+    <string name="main_btn">मुख्य पाठ</string>
+    <string name="main_text">मुख्य बटन</string>
+    <string name="second_btn">दूसरा पाठ</string>
+    <string name="second_text">दूसरा बीटीएन</string>
+</resources>

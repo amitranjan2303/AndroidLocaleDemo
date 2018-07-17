@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageTest</string>
+    <string name="main_btn">MainText</string>
+    <string name="main_text">MainButton</string>
+    <string name="second_btn">SecondText</string>
+    <string name="second_text">SecondBtn</string>
+</resources>
